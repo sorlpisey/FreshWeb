@@ -1,0 +1,336 @@
+[
+    {
+        "id": 1,
+        "title": "Swedish Massage",
+        "description": "Relaxing full-body massage to relieve stress and tension.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "60 mins",
+        "price": "$65",
+        "featured": true,
+        "images": [
+            "/images/hero2.jpg",
+            "/images/hero3.jpg",
+            "/images/hero1.jpg"
+           
+        ],
+        "category_id": 1
+    },
+    {
+        "id": 2,
+        "title": "Aromatherapy Massage",
+        "description": "Full-body massage with essential oils to enhance mood.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "75 mins",
+        "price": "$80",
+        "featured": true,
+        "images": [
+            "/images/hero2.jpg"
+           
+        ],
+        "category_id": 1
+    },
+    {
+        "id": 3,
+        "title": "Facial Treatment",
+        "description": "Deep cleansing and moisturizing facial treatment mood.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "45 mins",
+        "price": "$50",
+        "featured": true,
+        "images": [
+            "/images/hero4.avif",
+            "/images/hero2.jpg",
+            "/images/hero3.jpg"
+           
+        ],
+        "category_id": 1
+    },
+    {
+        "id": 4,
+        "title": "Swedish Massage",
+        "description": "Relaxing full-body massage to relieve stress and tension.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "60 mins",
+        "price": "$65",
+        "featured": true,
+        "images": [
+            "/images/hero2.jpg",
+
+            "/images/hero5.jpg",
+            "/images/hero4.avif"
+        ],
+        "category_id": 1
+    },
+    {
+        "id": 5,
+        "title": "Mini Facial",
+        "description": "Quick facial with cleanse & tone.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "30 mins",
+        "price": "$30",
+         "featured": false,
+        "images": [
+            "/images/hero2.jpg",
+            "/images/hero3.jpg"
+            
+        ],
+        "category_id": 2
+    },
+    
+    {
+        "id": 6,
+        "title": "Deep Cleansing Facial",
+        "description": "Thorough facial to remove impurities and hydrate skin.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "60 mins",
+        "price": "$70",
+         "featured": false,
+        "images": [
+            "/images/hero2.jpg",
+            "/images/hero3.jpg",
+            "/images/hero1.jpg",
+            "/images/hero4.avif",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 2
+    },
+    {
+        "id": 7,
+        "title": "Body Scrub",
+        "description": "Exfoliate and refresh your skin.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "40 mins",
+        "price": "$45",
+         "featured": false,
+        "images": [
+            "/images/hero2.jpg",
+            "/images/hero3.jpg",
+            "/images/hero4.avif",
+            "/images/hero1.jpg",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 2
+    },
+    {
+        "id": 8,
+        "title": "Exfoliating Body Scrub",
+        "description": "Gentle scrub to remove dead skin and improve texture.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "30 mins",
+        "price": "$40",
+         "featured": false,
+        "images": [
+            "/images/hero2.jpg",
+            "/images/hero3.jpg",
+            "/images/hero1.jpg",
+            "/images/hero4.avif",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 3
+    },
+    {
+        "id": 9,
+        "title": "Exfoliating Body Scrub",
+        "description": "Gentle scrub to remove dead skin and improve texture.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "30 mins",
+        "price": "$40",
+         "featured": false,
+        "images": [
+            "/images/hero2.jpg",
+            "/images/hero3.jpg",
+            "/images/hero1.jpg",
+            "/images/hero4.avif",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 3
+    },
+    {
+        "id": 10,
+        "title": "Detox Body Scrub",
+        "description": "Detoxifying scrub to cleanse and rejuvenate skin.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "50 mins",
+        "price": "$55",
+         "featured": false,
+        "images": [
+           
+            "/images/hero1.jpg",
+            "/images/hero4.avif",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 3
+    },
+    {
+        "id": 11,
+        "title": "Scalp Massage",
+        "description": "Oil massage to nourish scalp and hair.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "30 mins",
+        "price": "$35",
+         "featured": false,
+        "images": [
+            "/images/hero3.jpg",
+            "/images/hero1.jpg",
+            "/images/hero4.avif",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 3
+    },
+    {
+        "id": 12,
+        "title": "Hair & Scalp Treatment",
+        "description": "Complete care for hair with mask & steam.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "45 mins",
+        "price": "$55",
+         "featured": false,
+        "images": [
+            "/images/hero1.jpg",
+            "/images/hero2.jpg",
+            "/images/hero4.avif"
+        ],
+        "category_id": 4
+    },
+    {
+        "id": 13,
+        "title": "Scalp Massage",
+        "description": "Oil massage to nourish scalp and hair.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "30 mins",
+        "price": "$35",
+         "featured": false,
+        "images": [
+            "/images/hero3.jpg",
+            "/images/hero1.jpg",
+            "/images/hero4.avif",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 4
+    },
+    {
+        "id": 14,
+        "title": "Hair & Scalp Treatment",
+        "description": "Complete care for hair with mask & steam.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "45 mins",
+        "price": "$55",
+         "featured": false,
+        "images": [
+            "/images/hero1.jpg",
+            "/images/hero2.jpg",
+            "/images/hero4.avif"
+        ],
+        "category_id": 4
+    },
+    {
+        "id": 15,
+        "title": "Luxury Spa Package",
+        "description": "Full body massage + facial + scrub.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "2 hrs",
+        "price": "$150",
+         "featured": false,
+        "images": [
+            "/images/hero1.jpg",
+            "/images/hero3.jpg",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 4
+    },
+    {
+        "id": 16,
+        "title": "Couple Spa Package",
+        "description": "Massage & facial for two people.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "90 mins",
+        "price": "$130",
+         "featured": false,
+        "images": [
+            "/images/hero3.jpg",
+            "/images/hero1.jpg",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 5
+    },
+    {
+        "id": 17,
+        "title": "Luxury Spa Package",
+        "description": "Full body massage + facial + scrub.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "2 hrs",
+        "price": "$150",
+         "featured": false,
+        "images": [
+            "/images/hero2.jpg",
+            "/images/hero3.jpg",
+            "/images/hero1.jpg",
+            "/images/hero5.jpg",
+            "/images/hero4.avif"
+        ],
+        "category_id": 5
+    },
+    {
+        "id": 18,
+        "title": "Detox Body Wrap",
+        "description": "Eliminate toxins and nourish skin.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "50 mins",
+        "price": "$60",
+         "featured": false,
+        "images": [
+            "/images/hero2.jpg",
+            "/images/hero3.jpg",
+            "/images/hero4.avif",
+            "/images/hero1.jpg",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 5
+    },
+    {
+        "id": 18,
+        "title": "Couple Spa Package",
+        "description": "Massage & facial for two people.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "90 mins",
+        "price": "$130",
+         "featured": false,
+        "images": [
+            "/images/hero2.jpg",
+            "/images/hero3.jpg",
+            "/images/hero1.jpg",
+            "/images/hero4.avif",
+            "/images/hero5.jpg"
+        ],
+        "category_id": 5
+    },
+     {
+        "id": 19,
+        "title": "Couple Spa Package",
+        "description": "Massage & facial for two people.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "90 mins",
+        "price": "$130",
+         "featured": false,
+        "images": [
+            "/images/hero2.jpg"
+            
+        ],
+        "category_id": 5
+    },
+     {
+        "id": 20,
+        "title": "Couple Spa Package",
+        "description": "Massage & facial for two people.",
+        "productuse": " Oil HerbalCompress ",
+        "duration": "90 mins",
+        "price": "$130",
+         "featured": false,
+        "images": [
+            
+            "/images/hero4.avif"
+        ],
+        "category_id": 5
+    }
+    
+]

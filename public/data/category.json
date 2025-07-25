@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Body Massages","image":"/images/body.png", "slug": "body-massage" },
+  { "id": 2, "name": "Facial Massages","image":"/images/face.png", "slug": "facial-massage" },
+  { "id": 3, "name": "Body Scrubs","image":"/images/srub.png", "slug": "body-scrub" },
+  { "id": 4, "name": "Packages","image":"/images/package.png", "slug": "packages" },
+  { "id": 5, "name": "Head Massages","image":"/images/head.png", "slug": "head-massage" }
+]

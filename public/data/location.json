@@ -1,0 +1,40 @@
+ [
+  {
+    "id": 1,
+   "name": "PHNOM PENH - SEN SOK",
+    "image": "/images/location1.jpg",
+    "address": "No. 45, National Road 6, Svay Dangkum Commune, Siem Reap City, Siem Reap Province, Cambodia lorem ipsum dolor sit amet, consectetur adipiscing elit.lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "mapLink":  "https://www.google.com/maps?q=11.562108,104.888535" ,
+    "slug": "phnom-penh-sen-sok",
+    "phone": "+855 12 345 678"
+  },
+  {
+    "id": 2,
+    "name": "SIEM REAP - PUB STREET",
+    "image": "/images/location2.jpg",
+    "address": "No. 45, National Road 6, Svay Dangkum Commune, Siem Reap City, Siem Reap Province, Cambodia lorem ipsum dolor sit amet, consectetur adipiscing elit.lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+     "mapLink":  "https://www.google.com/maps?q=11.562108,104.888535" ,
+    "slug": "siem-reap-pub-street",
+    "phone": "+855 12 345 678"
+  },
+  {
+    "id": 3,
+    "name": "SPA Center - Kep",
+    "image": "/images/location3.jpg",
+    "address": "No. 45, National Road 6, Svay Dangkum Commune, Siem Reap City, Siem Reap Province, Cambodia lorem ipsum dolor sit amet, consectetur adipiscing elit.lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+     "mapLink":  "https://www.google.com/maps?q=11.562108,104.888535" ,
+    "slug": "spa-center-kep",
+    "phone": "+855 12 345 678"
+  },
+  {
+    "id": 4,
+   "name": "PHNOM PENH - BKK1 ",
+    "image": "/images/location4.jpg",
+    "address": "No. 45, National Road 6, Svay Dangkum Commune, Siem Reap City, Siem Reap Province, Cambodia lorem ipsum dolor sit amet, consectetur adipiscing elit.lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+     "mapLink":  "https://www.google.com/maps?q=11.562108,104.888535" ,
+    "slug": "phnom-penh-bkk1",
+    "phone": "+855 12 345 678"
+  }
+  
+  
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Benefits of Aromatherapy",
+    "excerpt": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+    "image": "/images/blog1.jpg",
+    "date": "2025-07-11"
+  },
+  {
+    "id": 2,
+    "title": "Hot Stone Massage Explained",
+    "excerpt": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+    "image": "/images/blog5.jpg",
+    "date": "2025-07-10"
+  },
+  {
+    "id": 3,
+    "title": "Benefits of Aromatherapy",
+    "excerpt": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+    "image": "/images/blog3.avif",
+    "date": "2025-07-9"
+  },
+  {
+    "id": 4,
+    "title": "Hot Stone Massage Explained",
+    "excerpt": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+    "image": "/images/blog2.jpg",
+    "date": "2025-07-15"
+  },
+  {
+    "id": 5,
+    "title": "Benefits of Aromatherapy",
+    "excerpt": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+    "image": "/images/blog6.jpg",
+    "date": "2025-07-9"
+  }
+  
+]
