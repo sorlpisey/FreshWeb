@@ -39,7 +39,7 @@ const Navbar = () => {
         </div>
 
         {/* Logo - centered on mobile, left on large screens */}
-        <div className="md:text-3xl text-xl font-bold text-[#403d2c] border-b-2 border-gray-400 
+        <div className="md:text-3xl text-2xl font-bold text-[#403d2c] border-b-2 border-gray-400 
                         absolute left-1/2 transform -translate-x-1/2
                         lg:static lg:transform-none lg:order-none">
           FRESHH
